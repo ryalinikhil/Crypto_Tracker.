@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FF24A869-CEF5-47A8-9A3F-185FFB51A209"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F7EE127-1DE9-4F54-948C-C1A1EB2218BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoCurrencyTracker/Core/Settings/Views/SettingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "cryptoSection"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1F7EE127-1DE9-4F54-948C-C1A1EB2218BA - 8edfe13a81b1abf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Link&lt;SwiftUI.Text&gt;)&gt; in CryptoCurrencyTracker.SettingsView.cryptoSection.getter : some"
+                  moduleName = "CryptoCurrencyTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sameernikhil/Downloads/CryptoCurrencyTracker_G/CryptoCurrencyTracker/Core/Settings/Views/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "848">
+               </Location>
+               <Location
+                  uuid = "1F7EE127-1DE9-4F54-948C-C1A1EB2218BA - abe2c39c18321b53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.EmptyView in CryptoCurrencyTracker.SettingsView.cryptoSection.getter : some"
+                  moduleName = "CryptoCurrencyTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sameernikhil/Downloads/CryptoCurrencyTracker_G/CryptoCurrencyTracker/Core/Settings/Views/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
